@@ -1,5 +1,5 @@
 # 🤖 Assignment 2: Motion Planning — Cave Navigation
-### RAS 598 · Mobile Robotics · Arizona State University · Spring 2026
+### RAS 598 · Mobile Robotics 
 
 > A complete autonomous navigation stack that plans and executes collision-free paths through a cave environment using A* pathfinding, line-of-sight path pruning, and a Turn-Go-Turn controller optimized for minimum energy consumption.
 
@@ -9,11 +9,11 @@
 
 | Demo | Link |
 |------|------|
-| Full Navigation Run | [Watch Video 1](https://drive.google.com/file/d/1ibqIyQzDfbf6uMLSxc6sVLecrrqw9C3y/view?usp=drivesdk) |
-| RViz Path Visualization | [Watch Video 2](https://drive.google.com/file/d/1lvBmfzK8z3ahSd5n6VimM2n6RULfruUX/view?usp=drivesdk) |
-| Energy Optimization | [Watch Video 3](https://drive.google.com/file/d/1WKPI1iHNyEqz40WCqZH5LHwaKRMoRwL0/view?usp=drivesdk) |
-| Terminal Output | [Watch Video 4](https://drive.google.com/file/d/1c_S9tk6issQdo3qZTf-o5Sqn65W5KYYI/view?usp=drivesdk) |
-| All Files | [Google Drive Folder](https://drive.google.com/drive/folders/1j-4E_F8HOoRgQLRTpNETGIHLmbHTLv0a) |
+| Full Navigation Run | [Watch Video ](https://drive.google.com/file/d/1lvBmfzK8z3ahSd5n6VimM2n6RULfruUX/view?usp=drive_link) |
+| RViz Path Visualization | [Picture 2](https://drive.google.com/file/d/1WKPI1iHNyEqz40WCqZH5LHwaKRMoRwL0/view?usp=drive_link) |
+| Energy Optimization | [Picture 3](https://drive.google.com/file/d/1ibqIyQzDfbf6uMLSxc6sVLecrrqw9C3y/view?usp=drive_link) |
+| Terminal Output | [Picture 4](https://drive.google.com/file/d/1c_S9tk6issQdo3qZTf-o5Sqn65W5KYYI/view?usp=drivesdk) |
+| All Files | [Folder](https://drive.google.com/drive/folders/1j-4E_F8HOoRgQLRTpNETGIHLmbHTLv0a?usp=drive_link) |
 
 ---
 
@@ -231,12 +231,12 @@ python3 planner_node.py
 
 | Category | Points | Status |
 |----------|--------|--------|
-| A* Pathfinding — collision-free path | 4/4 | ✅ 114 cells |
-| Path Pruning — LOS waypoint skipping | 2/2 | ✅ 15 waypoints |
-| Path Execution — no collisions | 4/4 | ✅ Goal reached |
-| Competitive Energy Score | 3/3 | ✅ 27.24 units |
-| Standardization — topics match spec | 2/2 | ✅ All correct |
-| **Total** | **15/15** | 🎉 |
+| A* Pathfinding - collision-free path | 4/4 |  114 cells |
+| Path Pruning - LOS waypoint skipping | 2/2 |  15 waypoints |
+| Path Execution - no collisions | 4/4 |  Goal reached |
+| Competitive Energy Score | 3/3 |  27.24 units |
+| Standardization - topics match spec | 2/2 | Done  |
+| **Total** | **15/15** | Done  |
 
 ---
 
@@ -244,4 +244,4 @@ python3 planner_node.py
 
 **Vamshikrishna Gadde**
 MS Robotics and Autonomous Systems Engineering
-Arizona State University · Spring 2026
+
